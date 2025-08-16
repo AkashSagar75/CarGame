@@ -36,7 +36,7 @@ export default function Home() {
 
         <footer className="home-footer">
           <div className="home-image-container">
-            <img src={Sagar} alt="sagara image" />
+            <img src={Sagar}  alt="Developer" />
           </div>
 
           <p>Developed by <strong>Er Akash Sagar</strong></p>

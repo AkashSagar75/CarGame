@@ -4,7 +4,7 @@ import '../CSS/Game.css'
 
 export default function Game() {
   const gameAreaRef = useRef(null);
-  const scoreRef = useRef(null);
+
    const bgAudioRef = useRef(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [score, setScore] = useState(0);
